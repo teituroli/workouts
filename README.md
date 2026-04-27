@@ -103,7 +103,7 @@ Your site will be live at `https://YOUR_USERNAME.github.io/your-repo-name/` with
 > If `gh-pages` doesn't appear in the dropdown, the Actions workflow hasn't finished yet — check the **Actions** tab first.
 
 > If the workflow fails with a 403 error, go to **Settings → Actions → General → Workflow permissions** and set it to **Read and write permissions**.
-
+ 
 ---
 
 ## A few things worth knowing
