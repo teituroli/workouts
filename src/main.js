@@ -192,7 +192,7 @@ function renderBoard() {
     (b, c) => (totalDebt(c.id) > totalDebt(b?.id ?? "") ? c : b),
     S.colleagues[0],
   );
-
+ 
   return `
   <div class="page-hdr">
     <div class="page-title">THE <em>BOARD</em></div>
